@@ -1,2 +1,2 @@
 # Deep-RL
-Udemy Course notebooks related to Deep Reinforcement Learning
+University and Udemy Course notebooks related to Deep Reinforcement Learning
